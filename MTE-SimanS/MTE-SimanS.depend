@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539803066 source:s:\mte-simans\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
